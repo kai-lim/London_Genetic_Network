@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: "/about/"
+permalink: "London_Genetic_Network/about/"
 ---
 
 The London Genetics Network is a new network founded by Professor Angelica Ronald (Birkbeck, GEL lab co-director) and Dr Karoline Kuchenbaecker (UCL). The Network is funded by the Genetics Society and is designed for researchers working in human genetic research in London and the surrounding areas. The Network’s aims are: 
