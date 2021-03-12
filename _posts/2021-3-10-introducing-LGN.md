@@ -5,7 +5,7 @@ title: Introducing London Genetics Network
 
 
 
-![logo]("assets/LGN_logo.jpg")
+![logo]("/assets/LGN_logo.jpg")
 
 This is the official website of London Genetics Network. We are a group of researchers based in London who study human genetics.
 
