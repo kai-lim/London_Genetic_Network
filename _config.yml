@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink:        pretty   
+# relative_permalinks: true (this has to be commented out because github complained) 
 
 # Setup
 title:            London Genetics Network
@@ -13,7 +13,7 @@ description:      'A network for human genetics researchers who work in London a
 baseurl:          "https://kai-lim.github.io/"
 
 
-paginate:         5
+paginate:         5 
 
 # Custom vars
 version:          2.1.0
