@@ -3,28 +3,14 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+The London Genetics Network is a new network founded by Professor Angelica Ronald (Birkbeck, GEL lab co-director) and Dr Karoline Kuchenbaecker (UCL). The Network is funded by the Genetics Society and is designed for researchers working in human genetic research in London and the surrounding areas. The Network’s aims are: 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+* to increase London-based collaboration between researchers interested in human genetics
+* to leverage London’s expertise by fostering knowledge exchange 
+* to develop practical and online resources for training and development in statistical and computational genetics
+* to support early career researchers through a range of new opportunities and research prizes
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Follow us on twitter: [@LdnGeneNet](https://twitter.com/LdnGeneNet).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
