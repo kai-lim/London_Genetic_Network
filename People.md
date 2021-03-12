@@ -1,7 +1,6 @@
 ---
 layout: page
 title: People
-permalink: "https://kai-lim.github.io/London_Genetic_Network/people/"
 ---
 
 
