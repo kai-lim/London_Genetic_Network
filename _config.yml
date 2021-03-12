@@ -4,13 +4,13 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: false
+relative_permalinks: true
 
 # Setup
 title:            London Genetics Network
 tagline:          'A Jekyll theme'
 description:      'A network for human genetics researchers who work in London and the surrounding areas. Follow us on <a href="https://twitter.com/LdnGeneNet" target="_blank">Twitter</a> for updates of meetings, workshops and career opportunities.'
-baseurl:          "London_Genetic_Network"
+baseurl:          ""
 
 
 paginate:         5
